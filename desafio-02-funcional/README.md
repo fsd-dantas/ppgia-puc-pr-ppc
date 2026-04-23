@@ -1,15 +1,15 @@
-# Desafio 2 — Programação Funcional (Haskell)
+# Desafio 2 — Programação Funcional (LISP)
 
-Solver DFS para o problema dos missionários e canibais em Haskell.
+Solver DFS para o problema dos missionários e canibais em Common Lisp.
 
 ## Execução
 
 ```bash
-runhaskell missionarios.hs
-# ou compilado:
-ghc -o solver missionarios.hs && ./solver
+sbcl --load missionarios.lisp
+# ou via CLISP:
+clisp missionarios.lisp
 ```
 
 ## Arquivos
 
-- `missionarios.hs` — representação de estados, operadores e solver DFS
+- `missionarios.lisp` — representação de estados, operadores e solver DFS

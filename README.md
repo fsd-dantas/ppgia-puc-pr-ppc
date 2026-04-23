@@ -1,7 +1,6 @@
-# ppgia-puc-pr-ppc
+# Desafios de Paradigmas de Programação e Complexidade
 
-Desafios de Paradigmas de Programação e Complexidade  
-Programa de Pós-Graduação em Informática Aplicada (PPGIA) · PUC-PR  
+Programa de Pós-Graduação em Informática da PUCPR  
 Profs. Edson Emílio Scalabrin e Fabrício Enembreck
 
 ---
@@ -19,7 +18,7 @@ de canibais pode superar o número de missionários (quando houver missionários
 | Diretório | Paradigma | Linguagem |
 |---|---|---|
 | [`desafio-01-logica/`](desafio-01-logica/) | Programação Lógica | Prolog |
-| [`desafio-02-funcional/`](desafio-02-funcional/) | Programação Funcional | Haskell |
+| [`desafio-02-funcional/`](desafio-02-funcional/) | Programação Funcional | LISP |
 | [`desafio-03-complexidade/`](desafio-03-complexidade/) | Análise de Complexidade | — |
 
 ---

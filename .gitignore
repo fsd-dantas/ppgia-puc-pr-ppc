@@ -3,16 +3,13 @@
 *.pld
 *.pls
 
-# Haskell
-dist/
-dist-newstyle/
-.stack-work/
-*.o
-*.hi
-*.dyn_o
-*.dyn_hi
-.cabal-sandbox/
-cabal.sandbox.config
+# LISP
+*.fasl
+*.fas
+*.lib
+*.fsl
+*.dx32fsl
+*.lx64fsl
 
 # Python
 __pycache__/
