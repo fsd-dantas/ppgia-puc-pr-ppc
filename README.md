@@ -1,4 +1,4 @@
-# Desafios de Paradigmas de Programação e Complexidade
+# Paradigmas de Linguagem de Programação e Complexidade
 
 Programa de Pós-Graduação em Informática da PUCPR  
 Profs. Edson Emílio Scalabrin e Fabrício Enembreck
