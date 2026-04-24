@@ -13,16 +13,26 @@ de canibais pode superar o número de missionários (quando houver missionários
 
 ---
 
-## Estrutura
+## Trabalhos
 
-| Diretório | Paradigma | Linguagem |
-|---|---|---|
-| [`desafio-01-logica/`](desafio-01-logica/) | Programação Lógica | Prolog |
-| [`desafio-02-funcional/`](desafio-02-funcional/) | Programação Funcional | LISP |
-| [`desafio-03-complexidade/`](desafio-03-complexidade/) | Análise de Complexidade | — |
+| # | Título | Paradigma | Linguagem |
+|---|---|---|---|
+| 01|[`desafio-01-logica/`](desafio-01-logica/) | Programação Lógica | Prolog |
+| 02|[`desafio-02-funcional/`](desafio-02-funcional/) | Programação Funcional | LISP |
+| 03| [`desafio-03-complexidade/`](desafio-03-complexidade/) | Análise de Complexidade | — |
+
+---
+## Tópicos da Disciplina
+- Introdução a Complexidade de Algoritmos
+- Análise de Algoritmos Recursivos
+- Introdução à Programação Lógica
+- Resolução de Problemas com Programação Lógica
+- Introdução à Programação Funcional
+- Resolução de Problemas com Programação Funcional
+- Desenvolvimento de Desafios de Programação
 
 ---
 
-## Autores
+## Autor
 
-Fernando Sabino Dantas · Guilherme Bauml Campagnoli · Rafael de Camargo Sampaio
+Fernando Sabino Dantas
